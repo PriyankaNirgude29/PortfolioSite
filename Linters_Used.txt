@@ -1,4 +1,0 @@
-Editor used - Atom
-validation used - w3c validation
-Linters - 1)linter-htmlhint
-          2)linter-stylelint
