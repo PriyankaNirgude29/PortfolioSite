@@ -44,7 +44,8 @@ h3 {
   font-weight: 400;
 }
 
-a {
+a:link{
+  text-decoration: none;
   color: var(--link-color);    /* link color */
 }
 
