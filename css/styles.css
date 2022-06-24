@@ -53,11 +53,11 @@ input, textarea, select, button, {
   font-family: system-ui;
 }
 */
-a:visited {
+a:visited {text-decoration: none;
   color: var(--link_visited_color);
 }
 
-a:active {
+a:active {text-decoration: none;
   /* selected link color */
   color: var(--link_active_color);
 }
